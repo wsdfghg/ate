@@ -119,8 +119,8 @@ function GolemSpawner:WeldGolem(golem)
 			local weld = Instance.new("Weld")
 			weld.Part0 = body
 			weld.Part1 = part
-			weld.C0 = body.CFrame:Inverse()
-			weld.C1 = part.CFrame:Inverse()
+			weld.C0 = CFrame.new()
+			weld.C1 = body.CFrame:ToObjectSpace(part.CFrame)
 			weld.Parent = body
 		end
 	end
@@ -155,8 +155,8 @@ function GolemSpawner:EquipWeapon(golem, weaponId)
 		local weld = Instance.new("Weld")
 		weld.Part0 = rightArm
 		weld.Part1 = weapon
-		weld.C0 = rightArm.CFrame:Inverse()
-		weld.C1 = weapon.CFrame:Inverse()
+		weld.C0 = CFrame.new()
+		weld.C1 = rightArm.CFrame:ToObjectSpace(weapon.CFrame)
 		weld.Parent = rightArm
 	end
 	

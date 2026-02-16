@@ -38,7 +38,7 @@ This guide will walk you through **every single step** needed to implement the t
 4. Rename the ModuleScript from "ModuleScript" to **"GameConfig"** (just click on it and type the new name)
 5. Double-click on **GameConfig** to open it
 6. **Delete all the default code** inside
-7. Copy the **entire contents** of the file `/home/runner/work/ate/ate/src/ReplicatedStorage/GameConfig.lua` from this repository
+7. Copy the **entire contents** of the file `src/ReplicatedStorage/GameConfig.lua` from this repository
 8. **Paste** it into the GameConfig script in Roblox Studio
 9. Press **Ctrl+S** (or **Cmd+S** on Mac) to save
 
@@ -52,7 +52,7 @@ This guide will walk you through **every single step** needed to implement the t
 4. Rename it to **"PlayerDataManager"**
 5. Double-click to open it
 6. **Delete all the default code** inside
-7. Copy the **entire contents** of `/home/runner/work/ate/ate/src/ServerScriptService/PlayerDataManager.lua`
+7. Copy the **entire contents** of `src/ServerScriptService/PlayerDataManager.lua` from this repository
 8. **Paste** it into the script
 9. Press **Ctrl+S** to save
 
@@ -65,7 +65,7 @@ This guide will walk you through **every single step** needed to implement the t
 3. Rename it to **"MoneyManager"**
 4. Double-click to open it
 5. **Delete all the default code**
-6. Copy the **entire contents** of `/home/runner/work/ate/ate/src/ServerScriptService/MoneyManager.lua`
+6. Copy the **entire contents** of `src/ServerScriptService/MoneyManager.lua` from this repository
 7. **Paste** it into the script
 8. Press **Ctrl+S** to save
 
@@ -78,7 +78,7 @@ This guide will walk you through **every single step** needed to implement the t
 3. Rename it to **"StructureManager"**
 4. Double-click to open it
 5. **Delete all the default code**
-6. Copy the **entire contents** of `/home/runner/work/ate/ate/src/ServerScriptService/StructureManager.lua`
+6. Copy the **entire contents** of `src/ServerScriptService/StructureManager.lua` from this repository
 7. **Paste** it into the script
 8. Press **Ctrl+S** to save
 
@@ -91,7 +91,7 @@ This guide will walk you through **every single step** needed to implement the t
 3. Rename it to **"GolemSpawner"**
 4. Double-click to open it
 5. **Delete all the default code**
-6. Copy the **entire contents** of `/home/runner/work/ate/ate/src/ServerScriptService/GolemSpawner.lua`
+6. Copy the **entire contents** of `src/ServerScriptService/GolemSpawner.lua` from this repository
 7. **Paste** it into the script
 8. Press **Ctrl+S** to save
 
@@ -104,7 +104,7 @@ This guide will walk you through **every single step** needed to implement the t
 3. Rename it to **"WeaponManager"**
 4. Double-click to open it
 5. **Delete all the default code**
-6. Copy the **entire contents** of `/home/runner/work/ate/ate/src/ServerScriptService/WeaponManager.lua`
+6. Copy the **entire contents** of `src/ServerScriptService/WeaponManager.lua` from this repository
 7. **Paste** it into the script
 8. Press **Ctrl+S** to save
 
@@ -117,7 +117,7 @@ This guide will walk you through **every single step** needed to implement the t
 3. Rename it to **"MainGame"**
 4. Double-click to open it
 5. **Delete all the default code**
-6. Copy the **entire contents** of `/home/runner/work/ate/ate/src/ServerScriptService/MainGame.lua`
+6. Copy the **entire contents** of `src/ServerScriptService/MainGame.lua` from this repository
 7. **Paste** it into the script
 8. Press **Ctrl+S** to save
 
