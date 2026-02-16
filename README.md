@@ -14,7 +14,9 @@ A Roblox Studio tycoon game where players build a base, spawn golems, earn money
 
 This repository contains all the Lua scripts needed for the tycoon game.
 
-**👉 See [IMPLEMENTATION_GUIDE.md](IMPLEMENTATION_GUIDE.md) for complete step-by-step instructions on how to set this up in Roblox Studio.**
+**🎓 NEW TO ROBLOX? → Start with [BEGINNER_GUIDE.md](BEGINNER_GUIDE.md)** - Simple bullet list for beginners!
+
+**📚 Need details? → See [IMPLEMENTATION_GUIDE.md](IMPLEMENTATION_GUIDE.md)** - Complete step-by-step instructions
 
 ## File Structure
 
